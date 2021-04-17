@@ -1,6 +1,6 @@
 
 # Moduli tkinter është modul i integruar me Python.
-# Tkiner përdoret për të krijuar GUI e programeve.
+# Tkinter përdoret për të krijuar GUI e programeve.
 
 import tkinter as tk
 # importo modulin tkinter si tk (emri me të cilin do t'i referohemi më vonë)
