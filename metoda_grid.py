@@ -1,11 +1,11 @@
 # Pozicionimi me sistemin Grid (rrjetë) të Tkinter
-# Sistemi grid është një mënyrë më e mirë për të pozicionuar widget në ekran
+# Sistemi grid është një mënyrë më e mirë për të pozicionuar widget në ekran.
 # Me pack() widget qëndron në një pozicion në mes edhe kur ndryshohen përmasat e dritares
-# Sistemi grid(rrjetë) ka kolona dhe rreshta.
+# Sistemi grid (rrjetë) ka kolona dhe rreshta.
 # Numërimi i rreshtave dhe kolonave fillon nga 0
 # Me grid()  widget nuk ndryshon kur ndryshojnë përmasat e dritares
-# kolona është madhësia që zë një widget
-# të gjithë elementët në një sistem grid janë të lidhura me njëri tjetrin
+# Kolona është madhësia që zë një widget
+# Të gjithë elementët në një sistem grid janë të lidhura me njëri tjetrin
 
 
 from tkinter import *
