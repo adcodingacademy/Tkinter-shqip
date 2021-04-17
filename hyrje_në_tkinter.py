@@ -43,7 +43,7 @@ etiketë_teksti.pack()
 # gjendje të zbulojë se çfarë po ndodh. Ndërkohë që po looping ju mund të 
 # lëvizni shenjën e kursorit në program dhe do të vërë re pozicionin e tij. # Edhe kur klikoni një buton.
 # Kur një program përfundon është momenti kur kjo unazë përfundon.
-# Unazat vazhdojnë të punojnë derisa plotësohet një kusht i caktuar.
+# Unazat vazhdojnë të punojnë derisa të plotësohet një kusht i caktuar.
 
 dritare_kryesore.mainloop()
 # unaza kryesore e dritares
